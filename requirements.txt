@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+nba_api
+requests
+beautifulsoup4
+lxml
+matplotlib
+seaborn
