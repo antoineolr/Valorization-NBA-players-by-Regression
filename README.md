@@ -29,10 +29,16 @@ La méthodologie repose sur les travaux de Berri et al. (2004) concernant l'impa
 
 
 
-## Technologies
 * Langage : Python
 * Bibliothèques principales : Pandas, NumPy, Scikit-learn, Statsmodels
 * Base de données : SQL (SQLite) via SQLAlchemy
+
+### Installation
+Installation des dépendances :
+pip install -r requirements.txt
+
+Exécution du modèle :
+python main.py
 
 ## Structure du Répertoire
 ```bash
@@ -44,4 +50,6 @@ nba_valuation/
 ├── main.py                # Point d'entrée du programme
 ├── requirements.txt       # Dépendances
 └── README.md
+
+
 
